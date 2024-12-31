@@ -1,1 +1,1 @@
-# Java-tedst
+Dummy template
